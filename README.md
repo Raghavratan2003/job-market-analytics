@@ -153,6 +153,8 @@ Databricks
 
 ## Dashboard
 
+![Job Market Analytics Dashboard](dashboard/dashboard_preview.png)
+
 The Power BI dashboard contains:
 
 - Total Jobs
